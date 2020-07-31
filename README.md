@@ -36,7 +36,7 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88910377-05995780-d27a-11ea-99cc-b472dac0f0ef.png)
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/89008308-10122a80-d328-11ea-838e-817f2706a62c.png)
-8. Now run the workflow it will give you output in the logger. Here you can see false as the string contain a .<br/>
+8. Now run the workflow it will give you output in the logger. Here you can see false as the string contain a blank space.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/89008366-2c15cc00-d328-11ea-88f2-c6cb017fb354.png)
 
 ### Test With other input:
